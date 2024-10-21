@@ -46,7 +46,7 @@ If you'd like to contribute to this project, please follow these steps:
 This project is licensed under the MIT License.
 
 ## Contact
-For any questions or feedback, feel free to reach out to [G-mail](arjungaikwad9320@gmail.com).
+For any questions or feedback, feel free to reach out to [arjungaikwad9320@gmail.com].
 
 ---
 
